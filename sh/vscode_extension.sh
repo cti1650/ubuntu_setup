@@ -7,6 +7,15 @@
 # Visual Studio Code :: Package list
 pkglist=(
 ms-ceintl.vscode-language-pack-ja
+msjsdiag.debugger-for-chrome
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+wscats.eno
+donjayamanne.githistory
+vtrois.gitmoji-vscode
+ritwickdey.liveserver
+eg2.vscode-npm-script
+fknop.vscode-npm
 )
 
 for i in ${pkglist[@]}; do
