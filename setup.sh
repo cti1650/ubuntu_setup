@@ -5,14 +5,7 @@ sudo apt update
 sudo apt dist-upgrade
 sudo apt autoremove
 
-sudo apt install wget
-apt list --installed google*
-sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
-ls -l /etc/apt/sources.list.d
-cat /etc/apt/sources.list.d/google.list
-sudo wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-sudo apt update
-apt list google*
-sudo apt-get install google-chrome-stable
-apt list --installed google*
-tar xf `ファイル名`
+echo "chrome install"
+bash ./sh/chrome_install.sh
+echo "vscode install"
+bash ./sh/vscode_install.sh
