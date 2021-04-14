@@ -9,3 +9,5 @@ echo "chrome install"
 bash ./sh/chrome_install.sh
 echo "vscode install"
 bash ./sh/vscode_install.sh
+echo "teamviewer install"
+bash ./sh/teamviewer_install.sh
