@@ -1,1 +1,13 @@
 # ubuntu_setup
+
+## はじめに
+
+このリポジトリはUbuntu上に開発環境を構築するためのアプリケーションを一括でインストールするために作成しました！
+
+## 導入方法
+
+- gitをインストールしてリポジトリをクローン
+```bash
+sudo apt install git
+sudo git clone https://github.com/cti1650/ubuntu_setup.git
+```
