@@ -17,5 +17,5 @@ bash ./ubuntu_setup/setup.sh
 ```
 - 不要になったフォルダを削除
 ```bash
-rm -rf ./ubuntu_setup
+sudo rm -rf ./ubuntu_setup
 ```
