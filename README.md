@@ -11,3 +11,11 @@
 sudo apt install git
 sudo git clone https://github.com/cti1650/ubuntu_setup.git
 ```
+- 一括インストール用のシェルスクリプトを実行
+```bash
+bash ./ubuntu_setup/setup.sh
+```
+- 不要になったフォルダを削除
+```bash
+remove ./ubuntu_setup
+```
