@@ -19,3 +19,4 @@ bash ./ubuntu_setup/setup.sh
 ```bash
 sudo rm -rf ./ubuntu_setup
 ```
+- [Ubuntu環境構築まとめ](https://www.webcyou.com/?p=9234)を実行
