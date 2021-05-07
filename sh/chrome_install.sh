@@ -1,4 +1,5 @@
 #!/bin/sh
+cd `dirname $0`
 
 apt list --installed google*
 sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
