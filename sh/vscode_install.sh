@@ -1,4 +1,5 @@
 #!/bin/sh
+cd `dirname $0`
 
 sudo apt install -y apt-transport-https
 echo -e "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" | sudo tee /etc/apt/sources.list.d/vscode.list
