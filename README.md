@@ -19,4 +19,7 @@ bash ./ubuntu_setup/setup.sh
 ```bash
 sudo rm -rf ./ubuntu_setup
 ```
-- [Ubuntu環境構築まとめ](https://www.webcyou.com/?p=9234)を実行
+
+## その他設定項目
+- [Ubuntu環境構築まとめ](https://www.webcyou.com/?p=9234)
+- [Qiita Node.js 環境構築メモ](https://qiita.com/megane42/items/dcd71c317b0062522068)
