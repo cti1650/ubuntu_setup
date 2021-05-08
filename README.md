@@ -8,7 +8,7 @@
 
 - gitをインストールしてリポジトリをクローン
 ```bash
-sudo apt install git
+sudo apt install -y git
 sudo git clone https://github.com/cti1650/ubuntu_setup.git
 ```
 - 一括インストール用のシェルスクリプトを実行
