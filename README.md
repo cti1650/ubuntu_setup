@@ -27,3 +27,5 @@ sudo rm -rf ./ubuntu_setup
 ### Slackのインストール
 - [Linux 版 Slackダウンロードページ](https://slack.com/intl/ja-jp/downloads/linux)  
 ダウンロードページでdebファイルをダウンロード後、ダウンロード先でダブルクリックしてインストールを実行する。
+- [ubuntuでrpmパッケージを使う](https://youmjww.hatenablog.jp/entry/2017/05/16/ubuntu%E3%81%A7rpm%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%92%E4%BD%BF%E3%81%86)  
+rpmファイルしか見つからなかった場合は、debファイルへ変換後インストールが必要。（ubuntuの場合）
