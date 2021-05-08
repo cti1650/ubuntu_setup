@@ -18,8 +18,12 @@ bash ./ubuntu_setup/setup.sh
 - 不要になったフォルダを削除
 ```bash
 sudo rm -rf ./ubuntu_setup
-```
+``` 
 
 ## その他設定項目
 - [Ubuntu環境構築まとめ](https://www.webcyou.com/?p=9234)
 - [Qiita Node.js 環境構築メモ](https://qiita.com/megane42/items/dcd71c317b0062522068)
+
+### Slackのインストール
+- [Linux 版 Slackダウンロードページ](https://slack.com/intl/ja-jp/downloads/linux)  
+ダウンロードページでdebファイルをダウンロード後、ダウンロード先でダブルクリックしてインストールを実行する。
